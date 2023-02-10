@@ -19,6 +19,6 @@
 
 ### Contact Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/dchernyavsky)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dchernyavsky)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dcherniavskii)
 [![Skype](https://img.shields.io/badge/-Skype-090909?style=for-the-badge&logo=skype&logoColor=0A66C2)](https://join.skype.com/invite/nRbWado6rz7W)
 [![Email](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:dchernyavsky678@gmail.com)
